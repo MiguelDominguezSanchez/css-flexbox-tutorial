@@ -34,9 +34,8 @@ BENEFITS
 
     – Equal height columns
 
-
-
 ### 2 – Flex Containers
+
 ### 3 – Flex Grow
 ### 4 – Flex Shrink
 ### 5 – Flex Wrap
