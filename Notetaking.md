@@ -39,7 +39,9 @@ BENEFITS
 ### 3 – Flex Grow
 
 ### 4 – Flex Shrink
+
 ### 5 – Flex Wrap
+
 ### 6 – Flex Basics
 ### 7 – Creating a Menu with Flexbox
 ### 8 – Creating Nested Menus with Flexbox
