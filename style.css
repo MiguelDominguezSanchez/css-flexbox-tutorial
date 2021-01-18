@@ -16,6 +16,9 @@ body{
 .flex-container{
     display: flex;
     background-color: #fff;
+    /* flex-wrap: wrap; */
+    /* flex-wrap: wrap-reverse; */
+    flex-wrap: nowrap;
 }
 
 /* .flex-container::after{
@@ -30,25 +33,26 @@ body{
     width: 320px;
     /* float: left; */
     /* flex-grow: 100; */
+    flex-grow: 1;
 }
 
 .one{
     background: red;
     /* flex-grow: 2; */
-    flex-shrink: 1;
+    /* flex-shrink: 1; */
 
 }
 
 .two{
     background: blue;
     /* flex-grow: 3; */
-    flex-shrink: 2;
+    /* flex-shrink: 2; */
 }
 
 .three{
     background: green;
     /* flex-grow: 1; */
     /* flex-shrink: 3; */
-    flex-shrink: 6;
+    /* flex-shrink: 6; */
 }
 
