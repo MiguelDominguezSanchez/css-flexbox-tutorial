@@ -42,7 +42,8 @@ BENEFITS
 
 ### 5 – Flex Wrap
 
-### 6 – Flex Basics
+### 6 – Flex Basis
+
 ### 7 – Creating a Menu with Flexbox
 ### 8 – Creating Nested Menus with Flexbox
 ### 9 – Axis
